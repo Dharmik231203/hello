@@ -1,3 +1,5 @@
-# This program prints Hello world!
+#print hello world
 
-print('Hello world!')
+print('hello world')
+
+print('hi welcome back')
